@@ -19,5 +19,5 @@ Modern ve hızlı bir film/dizi içerik tarayıcı uygulaması. Bu uygulama, pop
 ---
 
 *Not: Bu uygulama sadece eğitim ve kişisel kullanım amaçlı geliştirilmiştir.*
-## Developed by "patr0n"
+## Developed by patr0n
 
