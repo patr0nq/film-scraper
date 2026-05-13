@@ -1,3 +1,8 @@
-# film-scraper
+Kaynak
+Fullhdfilmizlesene
+Jetfilm
+Filmmodu
+666Film
 
-fullhdfilmizlesene ve jetfilm sitelerinden film çekmeye yarayan falan filan
+
+sitelerinden istenen sayfa ve kategorilerden filmleri çekip m3u olarak kaydetmeye yarayan bir araç
