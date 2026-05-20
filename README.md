@@ -4,7 +4,7 @@ Modern ve hızlı bir film/dizi içerik tarayıcı uygulaması. Bu uygulama, pop
 
 ##  Özellikler
 
--   **Çoklu Site Desteği:** Dizipal, JetFilm, FullHDFilmIzlesene, FilmModu ve 666Film üzerinden içerik tarama.
+-   **Çoklu Site Desteği:** Dizipal, JetFilm, FullHDFilmIzlesene, FilmModu, 666Film, HDfilmcehennemi, Film Ekseni, Diziyou, Rec Tv, SinemaCX üzerinden içerik tarama.
 -   **M3U Playlist Oluşturma:** Çekilen içerikleri IPTV oynatıcıları için hazır, logolu ve gruplandırılmış çalma listesi olarak dışa aktarma.
 
 
