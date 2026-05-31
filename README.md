@@ -18,6 +18,6 @@ Modern ve hızlı bir film/dizi içerik tarayıcı uygulaması. Bu uygulama, pop
 
 ---
 
-*Not: Bu uygulama sadece eğitim ve kişisel kullanım amaçlı geliştirilmiştir.*
+*Not: Bu uygulama sadece eğitim ve kişisel kullanım amaçlı geliştirilmiştir, hiç bir içerik barındırmaz tamamı internette var olan sitelerden çekilir sorumluluk kullanıcıya aittir.*
 ## Developed by patr0n
 
